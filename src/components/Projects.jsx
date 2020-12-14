@@ -48,12 +48,12 @@ const Projects = () => {
               <br/>
               
             <div class="favLinks">
-              <iframe class="embed-responsive-item" src="./favLinksVid.mp4" allowfullscreen width={550} height={300}></iframe>
+              <iframe class="embed-responsive-item" src="./favLinksVid.mp4" allowfullscreen width={550} height={280}></iframe>
                 <p>Favorite Links Video</p>
             </div>
 
             <div class="design-pad">
-               <iframe class="embed-responsive-item" src="./design-pad_Trim.mp4" allowfullscreen width={550} height={300}></iframe>
+               <iframe class="embed-responsive-item" src="./design-pad_Trim.mp4" allowfullscreen width={550} height={280}></iframe>
                 <p>Design-Pad Video</p>
                 
               </div>
