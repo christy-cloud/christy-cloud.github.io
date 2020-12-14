@@ -1,0 +1,27 @@
+{
+"icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/christy-cloud",
+      "style": "socialicons"
+    },
+  
+    {
+      "id": 1,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/remitheprogrammer",
+      "style": "socialicons"
+    }
+],
+
+"showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.remitheprogrammer",
+  "instaUsername": "remitheprogrammer",
+  "instaQuerry": "/?__a=1",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "christy-cloud",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4
+}
